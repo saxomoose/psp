@@ -1,0 +1,14 @@
+{
+  "name": "psp",
+  "dependencies": {
+    "@rdfjs/types": "*",
+    "@types/node": "^20.9.0",
+    "csv": "^6.3.6",
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security"
+  },
+  "scripts": {
+    "build": "tsc",
+    "build-watch": "tsc --watch"
+  }
+}
